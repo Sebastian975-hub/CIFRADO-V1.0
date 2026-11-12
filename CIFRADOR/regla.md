@@ -92,10 +92,6 @@ El sistema garantiza que nunca se pierda información por cuatro motivos técnic
 ---
 
 ## 9. Intercambio entre grupos
-* **Grupo asignado:** [Escribir el número o nombre del otro grupo]
-* **¿Logramos romper su sistema?:** [Escribir Sí o No]
-* **Cómo lo intentamos y análisis:** [Explicar qué pista les dieron, si probaron fuerza bruta en la consola o análisis de frecuencia con `console.table()`, y qué elementos dificultaron o permitieron descifrar el mensaje].
-
 ---
 
 ## 10. Respuestas a las preguntas de la Práctica 1
