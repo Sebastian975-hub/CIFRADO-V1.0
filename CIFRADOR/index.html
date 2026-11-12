@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Cifrador de archivos</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+  <main>
+    <div class="agente">007 • SECRET FILE SYSTEM</div>
+
+    <h1>CIFRADOR</h1>
+
+    <h2>OPERACIÓN ARCHIVO SECRETO</h2>
+
+    <hr>
+
+    <p>Selecciona qué deseas hacer:</p>
+
+    <div class="opciones">
+      <button id="btnCifrar">CIFRAR ARCHIVO</button>
+      <button id="btnDescifrar">DESCIFRAR ARCHIVO</button>
+    </div>
+
+    <input type="file" id="archivo" accept=".txt" hidden>
+
+    <p id="mensaje"></p>
+
+    <div id="resultado"></div>
+
+    <hr>
+
+    <p class="estado">SISTEMA LISTO</p>
+  </main>
+
+  <script src="cifrador.js"></script>
+
+</body>
+</html>
